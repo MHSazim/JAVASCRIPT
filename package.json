@@ -1,0 +1,22 @@
+{
+    
+    "name": "movie-mania",
+    "description": "A Movie Dashboard",
+    "authors": "author",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error : no test specified\"&& ext 1"
+},
+"keywords":[
+    "javaScript",
+    "Tailwindcss"
+],
+"author": "Hasan Sazim",
+"license":"MIT",
+"devDependencies":
+{
+    "Tailwindcss": "^ 3.4.4"
+}
+}
+
